@@ -75,12 +75,12 @@ skills:
   # - name: foundation
   # - name: gatling
   # - name: gimp
-   - name: git
+    - name: git
   # - name: github
   # - name: gitlab
   # - name: go
   # - name: google
-   - name: gradle
+    - name: gradle
   # - name: grunt
   # - name: gulp
   # - name: heroku
@@ -88,8 +88,8 @@ skills:
   # - name: ie10
   # - name: illustrator
   # - name: inkscape
-   - name: itellij
-   - name: java
+    - name: itellij
+    - name: java
   # - name: jasmine
   # - name: javascript
   # - name: laravel
@@ -99,7 +99,7 @@ skills:
   # - name: mocha
   # - name: mongodb
   # - name: moodle
-   - name: mysql
+    - name: mysql
   # - name: nginx
   # - name: nodejs
   # - name: nodewebkit
@@ -109,7 +109,7 @@ skills:
   # - name: phpstorm
   # - name: protractor
   # - name: postgresql
-   - name: python
+    - name: python
   # - name: pycharm
   # - name: rails
   # - name: react
@@ -120,7 +120,7 @@ skills:
   # - name: safari
   # - name: sass
   # - name: sequelize
-   - name: slack
+    - name: slack
   # - name: sourcetree
   # - name: ssh
   # - name: swift
@@ -131,7 +131,7 @@ skills:
   # - name: twitter
   # - name: typescript
   # - name: ubuntu
-   - name: vim
+    - name: vim
   # - name: visualstudio
   # - name: vuejs
   # - name: webpack
