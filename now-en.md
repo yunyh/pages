@@ -11,10 +11,8 @@ ref: now
 lang: en
 order: 1
 ---
-This is a [now page](http://nownownow.com/about){:target="_blank"}, and it was inspired by [the /now movement](https://sivers.org/nowff){:target="_blank"}. If you have your own site, [you should make one](http://nownownow.com/about){:target="_blank"}, too.
+Maintainance My pages.... lol
 
-_Updated on_ **26 August 2018**.
-
-Here write what you are up to now.
+_Updated on_ **08 September 2018**.
 
 {% include go-to-home-page.html %}

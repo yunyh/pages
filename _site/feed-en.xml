@@ -2,13 +2,13 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>개발 블로그</title>
+    <title>개발 일지</title>
     <description>Write an awesome description for your new site here. You can edit this line in index.md. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/index.html</link>
-    <atom:link href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/feed-en.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Sep 2018 14:41:30 +0900</pubDate>
-    <lastBuildDate>Sat, 08 Sep 2018 14:41:30 +0900</lastBuildDate>
+    <link>https://yunyh.github.io//pages/index.html</link>
+    <atom:link href="https://yunyh.github.io//pages/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 08 Sep 2018 14:59:52 +0900</pubDate>
+    <lastBuildDate>Sat, 08 Sep 2018 14:59:52 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
     
@@ -16,9 +16,9 @@
         <title>Cayman Blog Theme</title>
         <description>&lt;p&gt;This is an example of a project page. As you can see there are buttons in the header to go to the repository, or directly download the source code.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 11 Oct 2017 00:00:00 +0900</pubDate>
-        <link>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-project-page.html</link>
-        <guid isPermaLink="true">https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-project-page.html</guid>
+        <pubDate>Sat, 08 Sep 2018 00:00:00 +0900</pubDate>
+        <link>https://yunyh.github.io//pages/first-post.html</link>
+        <guid isPermaLink="true">https://yunyh.github.io//pages/first-post.html</guid>
         
         <category>example</category>
         
@@ -38,8 +38,8 @@
         <description>&lt;p&gt;This is an example of a repository page. Sometimes you write an article which refers to a repository. As you can see there are buttons in the header to go to the repository, or directly download the source code.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 +0900</pubDate>
-        <link>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-repository-page.html</link>
-        <guid isPermaLink="true">https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-repository-page.html</guid>
+        <link>https://yunyh.github.io//pages/example-repository-page.html</link>
+        <guid isPermaLink="true">https://yunyh.github.io//pages/example-repository-page.html</guid>
         
         <category>example</category>
         
@@ -59,8 +59,8 @@
         <description>&lt;p&gt;This post is in English.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Aug 2017 00:00:00 +0900</pubDate>
-        <link>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/post-example-in-english.html</link>
-        <guid isPermaLink="true">https://lorepirri.gitlab.io/jekyll-theme-simple-blog/post-example-in-english.html</guid>
+        <link>https://yunyh.github.io//pages/post-example-in-english.html</link>
+        <guid isPermaLink="true">https://yunyh.github.io//pages/post-example-in-english.html</guid>
         
         <category>example</category>
         

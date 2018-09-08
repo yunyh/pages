@@ -1,9 +1,9 @@
 ---
 layout: category
-title: Progetti
-tagline: Questi sono i tuoi progetti
+title: Projects
+tagline: 프로젝트
 excerpt: >
-  Questi sono i tuoi progetti, in ordine cronologico. Se non sei interessato a mostrare i tuoi progetti, elimina questa pagina.
+  개인 / 업무 관련 프로젝트 일지
 permalink: /progetti.html
 header:
   image: /assets/patterns/new_year_background.png
@@ -13,7 +13,7 @@ order: 1
 category: projects
 ---
 
-Questi sono i tuoi progetti, in ordine cronologico. Se non sei interessato a mostrare i tuoi progetti, elimina questa pagina.
+업무 관련 프로젝트 정리
 
-<h1>Progetti Recenti</h1>
+<h1>Projects</h1>
 <div>&nbsp;</div>
