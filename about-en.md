@@ -12,8 +12,19 @@ lang: en
 order: 2
 ---
 
-This is the _Simple Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [jekyll-theme-simple-blog](https://github.com/lorepirri/jekyll-theme-simple-blog)
+BalanceHero Software Developer [2016-08 ~ ]
+Gurgaon, India
+TrueBalance Android application development
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+- Technical
+* Application Refactoring
+* MVP Architecture
+* Firebase EAP (Performance, A/B Test)
+* Application UI/UX improvement
+* httpClient, restAPI implementation
 
-{% include go-to-home-page.html %}
+- Business
+* User Account Sign Up/In implementation
+* Participation in Citrus Payment Gateway
+* Wallet service implementation
+* PayU Payment Gateway implementation
