@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Now
-tagline: What I'm doing now
+tagline: 공사 중
 excerpt: >
-  What I'm doing now. This goes SEO. Updated on 25 Settembre 2017.
-permalink: /now.html
+  페이지 공사 중...
+permalink: /adesso.html
 header:
   image: /assets/patterns/symphony.png
 ref: now
-lang: en
+lang: kr
 order: 1
 ---
-Maintainance My pages.... lol
+홈페이지 공사 중...!
 
 _Updated on_ **08 September 2018**.
 

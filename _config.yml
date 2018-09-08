@@ -6,14 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Page
+title: 개발 일지
 email: dbsdudguq@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Android Developer
 baseurl: "/pages" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://yunyh.github.io" # change this to the base hostname & protocol for your site
+url: "https://yunyh.github.io/" # change this to the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -42,9 +40,10 @@ header:
 
 # social
 author:
-  name: "My Blog"
+  name: "Simple Blog Theme"
   short_bio:
-    en: Jekyll Blog Theme, Responsive, SEO and Facebook enabled
+    en: 
+    kr: 개발 관련 이것저것...
   picture: assets/img/profile-60.png
 
 image: /assets/img/profile-225.png
@@ -69,13 +68,36 @@ image: /assets/img/profile-225.png
 #   owner_url: https://gitlab.com/lorepirri
 
 # github on site
-github:
-  owner_url: https://github.com/yunyh
+# github:
+#   owner_url: https://github.com/lorepirri
 
 
 # translation
-
 t:
+  kr:
+    latest-posts:  "Latest Posts"
+    read-more:  "Read More →"
+    show-more:  "Show More →"
+    loading:  "Loading..."
+    on-word: "on"
+    contact: "Contact"
+    contact-page: "contact.md"
+    read-time: "min read"
+    comments: "comments"
+    go-to-home-page: "Go to the Home Page"
+    months:
+      january: "Jan"
+      february: "Feb"
+      march: "Mar"
+      april: "Apr"
+      may: "May"
+      june: "Jun"
+      july: "Jul"
+      august: "Aug"
+      september: "Sep"
+      october: "Oct"
+      november: "Nov"
+      december : "Dec"
   en:
     latest-posts:  "Latest Posts"
     read-more:  "Read More →"
@@ -100,35 +122,35 @@ t:
       october: "Oct"
       november: "Nov"
       december : "Dec"
-  it:
-    latest-posts:  "Ultimi Posts"
-    read-more:  "Leggi →"
-    show-more:  "Mostra →"
-    loading:  "Caricamento..."
-    on-word: "su"
-    contact: "Contatta"
-    contact-page: "contatta.md"
-    read-time: "min di lettura"
-    comments: "commenti"
-    go-to-home-page: "Vai alla Pagina Iniziale"
-    months:
-      january: "Gen"
-      february: "Feb"
-      march: "Mar"
-      april: "Apr"
-      may: "Mag"
-      june: "Giu"
-      july: "Lug"
-      august: "Ago"
-      september: "Set"
-      october: "Ott"
-      november: "Nov"
-      december : "Dic"
+  # it:
+  #   latest-posts:  "Ultimi Posts"
+  #   read-more:  "Leggi →"
+  #   show-more:  "Mostra →"
+  #   loading:  "Caricamento..."
+  #   on-word: "su"
+  #   contact: "Contatta"
+  #   contact-page: "contatta.md"
+  #   read-time: "min di lettura"
+  #   comments: "commenti"
+  #   go-to-home-page: "Vai alla Pagina Iniziale"
+  #   months:
+  #     january: "Gen"
+  #     february: "Feb"
+  #     march: "Mar"
+  #     april: "Apr"
+  #     may: "Mag"
+  #     june: "Giu"
+  #     july: "Lug"
+  #     august: "Ago"
+  #     september: "Set"
+  #     october: "Ott"
+  #     november: "Nov"
+  #     december : "Dic"
 
 defaults:
   -
     scope:
       type: "posts"
     values:
-      lang: "en"
+      lang: "kr"
       category: articles

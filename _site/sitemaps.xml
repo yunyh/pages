@@ -4,16 +4,16 @@
     
       <url>
 
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-categoria-pagina.html</loc>
+        <loc>https://yunyh.github.io//pages/first-post.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-categoria-pagina.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/first-post.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-project-page.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/first-post.html" />
         
         
-        <lastmod>2017-10-11T00:00:00+09:00</lastmod>
+        <lastmod>2018-09-08T00:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
       </url>
     
@@ -21,16 +21,16 @@
     
       <url>
 
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-project-page.html</loc>
+        <loc>https://yunyh.github.io//pages/first-post.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-categoria-pagina.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/first-post.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-project-page.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/first-post.html" />
         
         
-        <lastmod>2017-10-11T00:00:00+09:00</lastmod>
+        <lastmod>2018-09-08T00:00:00+09:00</lastmod>
         <changefreq>weekly</changefreq>
       </url>
     
@@ -38,13 +38,30 @@
     
       <url>
 
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-pagina-repository.html</loc>
+        <loc>https://yunyh.github.io//pages/esempio-pagina-repository.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-pagina-repository.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/esempio-pagina-repository.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-repository-page.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/example-repository-page.html" />
+        
+        
+        <lastmod>2018-09-08T00:00:00+09:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+
+        <loc>https://yunyh.github.io//pages/example-repository-page.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/esempio-pagina-repository.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/example-repository-page.html" />
         
         
         <lastmod>2017-10-10T00:00:00+09:00</lastmod>
@@ -55,30 +72,13 @@
     
       <url>
 
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-repository-page.html</loc>
+        <loc>https://yunyh.github.io//pages/esempio-di-post-in-italiano.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-pagina-repository.html" />
+          <xhtml:link rel="alternate" hreflang="it" href="https://yunyh.github.io//pages/esempio-di-post-in-italiano.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/example-repository-page.html" />
-        
-        
-        <lastmod>2017-10-10T00:00:00+09:00</lastmod>
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-di-post-in-italiano.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-di-post-in-italiano.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/post-example-in-english.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/post-example-in-english.html" />
         
         
         <lastmod>2017-08-21T00:00:00+09:00</lastmod>
@@ -89,13 +89,13 @@
     
       <url>
 
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/post-example-in-english.html</loc>
+        <loc>https://yunyh.github.io//pages/post-example-in-english.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/esempio-di-post-in-italiano.html" />
+          <xhtml:link rel="alternate" hreflang="it" href="https://yunyh.github.io//pages/esempio-di-post-in-italiano.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/post-example-in-english.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/post-example-in-english.html" />
         
         
         <lastmod>2017-08-21T00:00:00+09:00</lastmod>
@@ -106,28 +106,13 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/404.html</loc>
+        <loc>https://yunyh.github.io//pages/404.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/404.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/404.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/404-it.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/404-it.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/404.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/404-it.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/404.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -136,28 +121,13 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/about.html</loc>
+        <loc>https://yunyh.github.io//pages/404.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/about.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/404.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/informazioni.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/informazioni.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/about.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/informazioni.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/404.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -166,28 +136,13 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/contact.html</loc>
+        <loc>https://yunyh.github.io//pages/about.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/contact.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/about.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/contatti.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/contatti.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/contact.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/contatti.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/about.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -196,28 +151,13 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/feed-en.xml</loc>
+        <loc>https://yunyh.github.io//pages/about.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/feed-en.xml" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/about.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/feed-it.xml" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/feed-it.xml</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/feed-en.xml" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/feed-it.xml" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/about.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -226,28 +166,13 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/index.html</loc>
+        <loc>https://yunyh.github.io//pages/contact.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/index.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/contact.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/indice.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/indice.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/index.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/indice.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/contact.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -256,28 +181,13 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/now.html</loc>
+        <loc>https://yunyh.github.io//pages/contact.html</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/now.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/contact.html" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/adesso.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/adesso.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/now.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/adesso.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/contact.html" />
         
         
         <changefreq>weekly</changefreq>
@@ -286,28 +196,13 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/projects.html</loc>
+        <loc>https://yunyh.github.io//pages/feed-en.xml</loc>
         
         
         
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/projects.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/feed-en.xml" />
         
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/progetti.html" />
-        
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/progetti.html</loc>
-        
-        
-        
-          <xhtml:link rel="alternate" hreflang="en" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/projects.html" />
-        
-          <xhtml:link rel="alternate" hreflang="it" href="https://lorepirri.gitlab.io/jekyll-theme-simple-blog/progetti.html" />
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/feed-kr.xml" />
         
         
         <changefreq>weekly</changefreq>
@@ -316,7 +211,14 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/sitemaps.xml</loc>
+        <loc>https://yunyh.github.io//pages/feed-kr.xml</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/feed-en.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/feed-kr.xml" />
+        
         
         <changefreq>weekly</changefreq>
       </url>
@@ -324,7 +226,105 @@
   
     
       <url>
-        <loc>https://lorepirri.gitlab.io/jekyll-theme-simple-blog/assets/css/style.css</loc>
+        <loc>https://yunyh.github.io//pages/index.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/index.html" />
+        
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/index.html" />
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://yunyh.github.io//pages/index.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/index.html" />
+        
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/index.html" />
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://yunyh.github.io//pages/now.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/now.html" />
+        
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/adesso.html" />
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://yunyh.github.io//pages/adesso.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/now.html" />
+        
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/adesso.html" />
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://yunyh.github.io//pages/projects.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/projects.html" />
+        
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/progetti.html" />
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://yunyh.github.io//pages/progetti.html</loc>
+        
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="https://yunyh.github.io//pages/projects.html" />
+        
+          <xhtml:link rel="alternate" hreflang="kr" href="https://yunyh.github.io//pages/progetti.html" />
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://yunyh.github.io//pages/sitemaps.xml</loc>
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://yunyh.github.io//pages/assets/css/style.css</loc>
         
         <changefreq>weekly</changefreq>
       </url>
