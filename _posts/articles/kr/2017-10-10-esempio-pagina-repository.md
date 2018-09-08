@@ -14,7 +14,7 @@ repository:
 tags: ["esempio", "repository", "jekyll seo", "seo"]
 keywords: esempio, repository, seo, jekyll seo, jekyll  
 ref: example-project-page
-lang: it
+lang: kr
 ---
 
 Questa e' un esempio di pagina progetto. A volte si scrive un articolo con riferimento ad un repository. Come potete vedere ci sono pulsanti per andare al repository del progetto, o per scaricare direttamente il codice sorgente.
