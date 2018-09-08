@@ -3,12 +3,12 @@ layout: page
 title: About
 tagline: A few more words about this theme
 excerpt: >
-
+    
 permalink: /about.html
 header:
   image: /assets/patterns/upfeathers.png
 ref: about
-lang: en  
+lang: kr 
 order: 3
 ---
 
