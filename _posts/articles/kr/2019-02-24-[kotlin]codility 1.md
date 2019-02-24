@@ -17,6 +17,26 @@ ref:
 lang: kr
 ---
 
+코딜리티 BinaryGap 문제
+# Listen 1 - Iterations
+``
+A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at both ends in the binary representation of N.
+
+For example, number 9 has binary representation 1001 and contains a binary gap of length 2. The number 529 has binary representation 1000010001 and contains two binary gaps: one of length 4 and one of length 3. The number 20 has binary representation 10100 and contains one binary gap of length 1. The number 15 has binary representation 1111 and has no binary gaps. The number 32 has binary representation 100000 and has no binary gaps.
+
+Write a function:
+
+fun solution(N: Int): Int
+
+that, given a positive integer N, returns the length of its longest binary gap. The function should return 0 if N doesn't contain a binary gap.
+
+For example, given N = 1041 the function should return 5, because N has binary representation 10000010001 and so its longest binary gap is of length 5. Given N = 32 the function should return 0, because N has binary representation '100000' and thus no binary gaps.
+
+Write an efficient algorithm for the following assumptions:
+
+N is an integer within the range [1..2,147,483,647].
+Copyright 2009–2019 by Codility Limited. All Rights Reserved. Unauthorized copying, publication or disclosure prohibited.
+``
 
 ### solution 1
 2진법 계산을 하면서 마지막 1 위치에서 현재의 1 위치를 뺀 값이 이전 GAP 사이즈보다 크면 치환한다.
@@ -81,6 +101,7 @@ binaryString을 통해서 구한 string을 trim을 이용하여 구한 방법이
 1. 먼저 양 옆의 0들을 제거 (1과 1사이의 갭을 찾는 것이기 때문)
 2. 끝에 남은 양 옆의 1을 제거
 3. 1로 split 하여 배열을 구하고 그 중에서 최고 값을 구한다
+```kotlin
 fun solution3(N: Int): Int {
     return Integer.toBinaryString(N).run {
         trim('0')
@@ -88,3 +109,4 @@ fun solution3(N: Int): Int {
             .split('1').maxBy { it.length }?.length
     } ?: 0
 }
+```
