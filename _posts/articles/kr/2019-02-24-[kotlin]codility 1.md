@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "트루밸런스 코틀린 도입기 첫번째"
+title: "[Codility] BinaryGap"
 tagline: ""
 image: /assets/patterns/paisley.png
 header:
@@ -13,11 +13,12 @@ repository:
   tar_url: https://github.com/lorepirri/jekyll-social-metatags/tarball/master
 tags: ["kotlin", "codility"]
 keywords: kotlin, codility
-ref: example-project-page
+ref:
 lang: kr
 ---
 
 
+~~ solution 1
 ```kotlin
 fun solution(N: Int): Int {
     var gap = 0
@@ -47,3 +48,27 @@ fun solution(N: Int): Int {
     return gap
 }
 ```
+~~
+
+~~ solution2
+```Kotlin
+fun solution2(N: Int): Int {
+    var gap = 0
+    var lastPos = 0
+    Integer.toBinaryString(N).apply {
+        println(this)
+        forEachIndexed { index, char ->
+            if (char == '1') {
+                (index - lastPos - 1).apply {
+                    if (gap < this) {
+                        gap = this
+                    }
+                }
+                lastPos = index
+            }
+        }
+        return gap
+    }
+}
+```
+~~
