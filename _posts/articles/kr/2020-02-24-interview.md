@@ -11,8 +11,8 @@ repository:
   repository_url: https://github.com/lorepirri/jekyll-social-metatags
   zip_url: https://github.com/lorepirri/jekyll-social-metatags/archive/master.zip
   tar_url: https://github.com/lorepirri/jekyll-social-metatags/tarball/master
-tags: ["kotlin", "codility"]
-keywords: kotlin, codility
+tags: ["interview"]
+keywords: interview
 ref:
 lang: kr
 ---
@@ -43,3 +43,8 @@ Android OS 8 이후로는 백그라운드 사용이 매우 제한이 되면서 �
 어플리케이션의 로컬 DB를 관리하는 역할. 프로세스가 분리되어 있으면 content provider를 통해 하나의 로컬 DB 를 주고 받을 수 있다.
 ContentProvider를 통해 디바이스의 주소록 등 접근이 가능하고, 다른 앱에도 데이터를 제공할 수 있다.
 데이터 접근에 대한 권한 관리도 한다.
+
+
+# Activity LifeCycle
+<img src="https://developer.android.com/guide/components/images/activity_lifecycle.png?hl=ko" title="안드로이드 라이프사이클">
+[androidLifeCycle] : https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ko "Activity LifeCycle"
