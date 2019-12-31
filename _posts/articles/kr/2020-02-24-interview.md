@@ -50,5 +50,5 @@ ContentProvider를 통해 디바이스의 주소록 등 접근이 가능하고, 
 
 
 # Activity LifeCycle
-<img src="https://developer.android.com/guide/components/images/activity_lifecycle.png?hl=ko" title="안드로이드 라이프사이클">
+<img src="https://developer.android.com/guide/components/images/activity_lifecycle.png?hl=ko" width="40%" height="40%" title="안드로이드 라이프사이클">
 [androidLifeCycle]: https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ko "Activity LifeCycle"
